@@ -1,0 +1,21 @@
+{
+    "name": "HackerMan",
+    "displayName": "HackerMan",
+    "description": "One Theme To Rule Them Alll !",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "HackerMan",
+                "uiTheme": "vs-dark",
+                "path": "./themes/HackerMan-color-theme.json"
+            }
+        ]
+    }
+}
