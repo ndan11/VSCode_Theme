@@ -1,4 +1,6 @@
-###### A Simple Minimilastic VSCode Theme!!
+###### A Minimilastic Hackerman Theme!!
+
+![](/Images/hackerman.jpg)
 
 ## Created And Designed By `Nandan Gadhetharia`
 
