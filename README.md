@@ -9,3 +9,7 @@ Write Your Valuable Feeback And Give Your Awesome Suggestions [Give A Feedback](
 ## Checkout Theme Preview 👇👇
 
 ![](/Images/1.png)
+
+![](/Images/2.png)
+
+![](/Images/3.png)
