@@ -134,7 +134,7 @@
 		"progressBar.background": "#FED766",
 		"scrollbar.shadow": "#25252500",
 		"scrollbarSlider.activeBackground": "#FED766cc",
-		"scrollbarSlider.background": "#66e7febb", // scrool bar color che 
+		"scrollbarSlider.background": "#66e7febb", // Colors For Scroll Bar
 		"scrollbarSlider.hoverBackground": "#66d3feee",
 		"selection.background": "#8afe66",
 		"settings.checkboxBackground": "#252525",
@@ -148,8 +148,8 @@
 		"settings.textInputBackground": "#252525",
 		"settings.textInputForeground": "#2AB7CA",
 		"sideBar.background": "#242121",
-		"sideBar.border": "#0083ee50", // navu bar khole tyare side ma pati lineeno color che  line ave eno
-		"sideBar.foreground": "#1bddbd", // sidebar files
+		"sideBar.border": "#0083ee50", 
+		"sideBar.foreground": "#1bddbd", // Sidebar files
 		"sideBarSectionHeader.background": "#252525",
 		"sideBarSectionHeader.border": "#25252560",
 		"sideBarSectionHeader.foreground": "#14d8df",
@@ -163,7 +163,7 @@
 		"statusBarItem.hoverBackground": "#eb2c2c20",
 		"statusBarItem.remoteBackground": "#fe9e66",
 		"statusBarItem.remoteForeground": "#252525",
-		"tab.activeBackground": "#504b5050", //tab color che 
+		"tab.activeBackground": "#504b5050", // Tab Color 
 		"tab.activeBorder": "#1b1913",
 		"tab.activeForeground": "#2AB7CA",
 		"tab.activeModifiedBorder": "#2c2921",
